@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 // вводим имя и пароль точки доступа
 const char* ssid = "MTS874FT_7B2B";
-const char* password = "00023879";
+const char* password = "*********";
 
 const int LED2 = 2;
 const int LED4 = 4;
